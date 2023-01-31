@@ -13,9 +13,9 @@ AliuCord+ is an upgraded version of the already existing AliuCord. All features 
 •I've added a few extra plugins and themes to the repo's.  
 
 # WARNINGS  
-AliuCord+ is my own project and not based off of the original. It will take me a while to get rid of all bugs.  
-Android V5.0 and above is required to install the APK once it's built.  
-As the builder uses a secure proxy, please disable your anti virus before using it.  
+•AliuCord+ is my own project and not based off of the original. It will take me a while to get rid of all bugs.  
+•Android V5.0 and above is required to install the APK once it's built.  
+•As the builder uses a secure proxy, please disable your anti virus before using it.  
 
 # CONTACT  
 [Instagram](https://www.instagram.com/scythe.dev)  
